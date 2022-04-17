@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Mobil ilovalarni yaratish</string>
+    <string name="todo">TODO</string>
+    <string name="maruzalar_matni">Maruzalar matni</string>
+    <string name="laboratory">Labaratoriya  ishlari</string>
+    <string name="quizes">Testlar</string>
+    <string name="interesting_facts">Qiziqarli  ma\'lumotlar</string>
+    <string name="about_app">Ilova haqida</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
